@@ -18,20 +18,13 @@
 </div>
 
 ## 목차
-[1. 주제 선정 및 배경]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#1-%EC%A3%BC%EC%A0%9C-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EB%B0%B0%EA%B2%BD)<br>
-[2. Gantt Chart]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#2-gantt-chart)<br>
-[3. 개발환경]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#3-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD)<br>
-[4. 데이터 시각화]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94)<br>
-[5. 웹크롤링 및 자연어처리]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#5-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%B0%8F-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC)<br>
-[6. RNN & DNN]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#6-rnn--dnn)<br>
-[7. 결론]
-(https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#7-%EA%B2%B0%EB%A1%A0)<br>
+[1. 주제 선정 및 배경](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#1-%EC%A3%BC%EC%A0%9C-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EB%B0%B0%EA%B2%BD)<br>
+[2. Gantt Chart](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#2-gantt-chart)<br>
+[3. 개발환경](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#3-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD)<br>
+[4. 데이터 시각화](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94)<br>
+[5. 웹크롤링 및 자연어처리](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#5-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%B0%8F-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC)<br>
+[6. RNN & DNN](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#6-rnn--dnn)<br>
+[7. 결론](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#7-%EA%B2%B0%EB%A1%A0)<br>
 
 ## 1. 주제 선정 및 배경
 
