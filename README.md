@@ -12,9 +12,8 @@
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/tensorflow-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo= Anaconda&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> 
   <img src="https://img.shields.io/badge/sklearn-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 
 ## 목차
@@ -27,8 +26,6 @@
 [7. 결론](https://github.com/sehyeon24/1stPersonalProject?tab=readme-ov-file#7-%EA%B2%B0%EB%A1%A0)<br>
 
 ## 1. 주제 선정 및 배경
-![1대문](https://github.com/user-attachments/assets/46d90f5c-e998-45d0-abac-7007f5703d15)
-
 ![2목차](https://github.com/user-attachments/assets/e52939e8-e480-4bb8-82d0-20327a334613)
 
 ![3.1서론](https://github.com/user-attachments/assets/201ae7f1-fd7f-4f46-9288-a4816157cfa3)
