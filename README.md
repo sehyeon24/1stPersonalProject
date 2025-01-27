@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/tensorflow-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> 
   <img src="https://img.shields.io/badge/sklearn-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
 ## 목차
