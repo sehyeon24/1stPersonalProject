@@ -15,3 +15,26 @@
   <img src="https://img.shields.io/badge/sklearn-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
+
+## 목차
+[1. 주제 선정 및 배경]()<br>
+[2. Gantt Chart]()<br>
+[3. 개발환경]()<br>
+[4. 데이터 시각화]()<br>
+[5. 웹크롤링 및 자연어처리]()<br>
+[6. RNN & DNN]()<br>
+[7. 결론]()<br>
+
+## 1. 주제 선정 및 배경
+
+## 2. Gantt Chart
+
+## 3. 개발환경
+
+## 4. 데이터 시각화
+
+## 5. 웹크롤링 및 자연어처리
+
+## 6. RNN & DNN
+
+## 7. 결론
