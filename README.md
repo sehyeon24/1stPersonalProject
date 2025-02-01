@@ -70,6 +70,6 @@
 
 ![7.3연구시사점및향후방향](https://github.com/user-attachments/assets/3bd7f918-9467-48ab-bad0-a378573cc3aa)
 
-[![깃허브 커밋 스택](https://streak-stats.demolab.com?user=깃허브아이디&theme=transparent&locale=ko)]
+[![깃허브 커밋 스택](https://streak-stats.demolab.com?user=sehyeon24&theme=transparent&locale=ko)]
 
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact&theme=dark)
+![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username= sehyeon24&layout=compact&theme=dark)
