@@ -11,7 +11,7 @@
 
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tensorflow-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
