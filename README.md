@@ -72,4 +72,4 @@
 
 [![깃허브 커밋 스택](https://streak-stats.demolab.com?user=sehyeon24&theme=transparent&locale=ko)]
 
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username= sehyeon24&layout=compact&theme=dark)
+![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeon24&layout=compact&theme=dark)
