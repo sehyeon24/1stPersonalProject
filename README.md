@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=임세현의 GitHub 입니다!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=임세현의GitHub입니다!)
 
 ![깃허브 스택](https://github-readme-stats.vercel.app/api?username=sehyeon24&show_icons=true&theme=shadow_green)
 
