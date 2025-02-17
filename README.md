@@ -22,7 +22,9 @@
   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
 </div>
 
-![깃허브 커밋 스택](https://streak-stats.demolab.com?user=sehyeon24&theme=transparent&locale=ko)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=임세현의 GitHub 입니다!)
+
+![깃허브 스택](https://github-readme-stats.vercel.app/api?username=sehyeon24&show_icons=true&theme=shadow_green)
 
 ![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeon24&layout=compact&theme=dark)
 
