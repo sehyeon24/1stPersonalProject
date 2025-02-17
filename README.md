@@ -4,9 +4,8 @@
 - 프로젝트명 : 흡연과 금연의 줄다리기 (인원 1명)
 - 기간 : 2025.01.13 ~ 2025.01.26 (2주)
 - 언어 : Python 3.12.2
-- Python OpenSource : git,
-- Python library : ...
-- micro Framework : FastAPI
+- Python OpenSource : git
+- Python library : matplotlib, seaborn, sklearn, nltk, konlpy
 - 프로젝트 소개 : 흡연 민원 및 단속과 금연구역 간의 상관관계
 
 <div align=center>
