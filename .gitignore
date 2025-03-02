@@ -1,9 +1,7 @@
 .ipynb_checkpoints/
 csv_file/
 source/csv_file/
-.DS_Store/
 흡연과 금연의 줄다리기/
-흡연과 금연의 줄다리기
-GanttChart
-.gitignore.DS_Store
 .gitignore
+~$*.ppt*
+~$*.xls*
